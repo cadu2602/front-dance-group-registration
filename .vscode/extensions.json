@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "aaron-bond.better-comments",
+    "graphql.vscode-graphql",
+    "esbenp.prettier-vscode",
+    "antfu.iconify"
+  ],
+  "unwantedRecommendations": ["octref.vetur"]
+}
